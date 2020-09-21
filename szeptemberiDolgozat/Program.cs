@@ -118,7 +118,7 @@ namespace szeptemberiDolgozat
                 }
                 sr.Close();
             }
-
+            
             Console.WriteLine("\n0 találatok száma: " + nulla);
             Console.WriteLine("1 találatok száma: " + egytalalat);
             Console.WriteLine("2 találatok száma: " + kettotalalat);
